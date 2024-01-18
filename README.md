@@ -15,7 +15,7 @@ Repo: https://ucsb-cs156-w24/STARTER-jpa02
 * TODO: Correct the "deployed at" link to app on Dokku
   then delete this TODO.  Replace it with 
   a link to your running app on Dokku, e.g.
-  https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
+  https://jpa02-demirince.dokku-10.cs.ucsb.edu
 
 
 Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
